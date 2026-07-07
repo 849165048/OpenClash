@@ -1,8 +1,10 @@
 # 代理列表
 
 # 代理关键词
-#DOMAIN-KEYWORD,yandex
+DOMAIN-KEYWORD,yandex
 
 
 # 代理域名
 DOMAIN-SUFFIX,greasyfork.org
+DOMAIN-SUFFIX,sayu-bot.com
+DOMAIN-SUFFIX,mypikpak.com
